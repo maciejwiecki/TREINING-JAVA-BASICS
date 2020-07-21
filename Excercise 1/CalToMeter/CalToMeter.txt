@@ -1,0 +1,20 @@
+/*
+This JAVA application converts inches to meters.
+*/
+public class CalToMeter {
+	public static void main(String[] args) {
+	double meter;
+	double feet;
+	double inch;
+	
+	int counter;
+	
+	meter = 100;
+	feet = 12 * inch;
+	inch = 2.54;
+
+	counter = 0
+	
+	
+	}
+}
